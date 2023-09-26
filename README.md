@@ -9,7 +9,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" alt="php" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/photoshop/photoshop-line.svg" alt="php" width="45" height="45"/>
 </p>
-[snake gif](https://github.com/Ahmadhsharif/ahmadhsharif/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Ahmadhsharif/ahmadhsharif/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Ahmadhsharif/ahmadhsharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
